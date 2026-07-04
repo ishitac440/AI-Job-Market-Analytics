@@ -161,7 +161,7 @@ AI-Job-Market-Analytics/
 
 ├── AI\\\_Jobs.sql
 
-├── AI\\\_Jobs\\\_Dataset.cv
+├── AI\\\_Jobs\\\_Dataset.csv
 
 ├── Dashboard.png
 
